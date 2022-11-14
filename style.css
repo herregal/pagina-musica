@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+	height: 5%;
+	background: orange;
+	text-align: center;
+}
+body{
+	background-size:100%;
+}
+
+h1{
+	color: indianred;
+	text-align: center;
+}
+p{
+	color: yellow;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #ef8354;
+}
+button{
+	color: lightgreen;
+}
+h2{
+	color: darkorange;
+}
+h3{
+	color: yellow;
+}
+
+footer{
+	text-align: right;
+	color: greenyellow;
+}
+
